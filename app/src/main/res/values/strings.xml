@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="header_text">Quiz wiedzy</string>
+    <string name="question1">Pytanie 1. Czy Ziemia jest okrągła?</string>
+    <string name="question2">Pytanie 2. Znana firma z jabłkiem w logo to:</string>
+    <string name="question3">Pytanie 3. Które z poniższych zwięrząt to ptaki:</string>
+    <string name="question4">Pytanie 4. Czy Elvis żyje?</string>
+    <string name="question5">Pytanie 5. Najbardziej znany fizyk to:</string>
+    <string name="question6">Pytanie 6. Które z poniższych miast znajdują się w Polsce?</string>
+    <string name="q1_yes">tak</string>
+    <string name="q1_no">nie</string>
+    <string name="q2_edit_hint">Wpisz nazwę firmy</string>
+    <string name="q5_edit_hint">Wpisz nazwisko fizyka</string>
+    <string name="q3_checkbox1">kura</string>
+    <string name="q3_checkbox2">pingwin</string>
+    <string name="q3_checkbox3">nietoperz</string>
+    <string name="q6_checkbox1">Moskwa</string>
+    <string name="q6_checkbox2">Wrocław</string>
+    <string name="q6_checkbox3">Opole</string>
+    <string name="send_answer">Wyślij odpowiedź</string>
+    <string name="win_text">Gratulacje! Wygrałeś!</string>
+    <string name="lose_text">Niestety tym razem Ci sie nie udało :(</string>
+</resources>
